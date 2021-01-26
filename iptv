@@ -1,0 +1,10 @@
+#EXTINF
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PhSjR3k" group-title="Canais Aberto",SBT
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sbt.m3u8?mu3zAQc9HC3GbwJq=KTWKQQZ34Dn3JGmt3kpQ3Q&3U1G7qaTxrPbalZnEx=1611292572
+#EXTINF:-2 tvg-logo="https://imgur.com/g1rEGry" group-title="Canais Aberto",Record TV SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-3 tvg-logo="https://imgur.com/GSEhvdR" group-title="Canais Aberto",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w648082647.m3u8
+#EXTINF:-4 tvg-logo="https://imgur.com/8KjxKCr" group-title="Canais Aberto",Globo RJ
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=D77kcm7gCEsneCa7s5ER0w&3U1G7qaTxrPbalZnEx=1611293811
